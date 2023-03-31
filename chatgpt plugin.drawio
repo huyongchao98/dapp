@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T07:19:59.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.2" etag="ew44LYXOVMqLYQCxfmqY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:31:29.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9d0u8H0tsyShsinces-l" version="21.1.2" type="github">
   <diagram name="第 1 页" id="BWq1UwHyaP0OZSpl17Me">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yMwzh4UZsZ9kzbpuvY15-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMwzh4UZsZ9kzbpuvY15-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="240" />
+              <mxPoint x="560" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMwzh4UZsZ9kzbpuvY15-2" value="chatgpt" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="294" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwzh4UZsZ9kzbpuvY15-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.067;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yMwzh4UZsZ9kzbpuvY15-3" target="yMwzh4UZsZ9kzbpuvY15-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwzh4UZsZ9kzbpuvY15-3" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="216" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwzh4UZsZ9kzbpuvY15-7" value="chatgpt plugins库" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwzh4UZsZ9kzbpuvY15-8" value="plugins提供方" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwzh4UZsZ9kzbpuvY15-10" value="根据需求，结合plugins中API对应的描述,寻找API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="419" y="200" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwzh4UZsZ9kzbpuvY15-11" value="自然语言：如：我需要订一张明天到武汉的机票？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="190" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T10:05:32.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="P8Jl33SxguYv3AkBevfy" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T10:29:52.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DR7pdcowzopBsUDGj6tw" version="21.1.4" type="github">
   <diagram name="第 1 页" id="1-NrpkV6FgpOHMMqy2pU">
     <mxGraphModel dx="2074" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,6 +76,32 @@
         </mxCell>
         <mxCell id="uXRtAm0iDbRkgFRXua0p-4" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" parent="qtXOKEnL0lzx3GWqz_FI-4" vertex="1">
           <mxGeometry x="30" y="485" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BIEdMuFnP1uakqGXzUCL-1" value="催单扣分管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qtXOKEnL0lzx3GWqz_FI-4">
+          <mxGeometry x="20" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BIEdMuFnP1uakqGXzUCL-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qtXOKEnL0lzx3GWqz_FI-4" source="BIEdMuFnP1uakqGXzUCL-1" target="BIEdMuFnP1uakqGXzUCL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIEdMuFnP1uakqGXzUCL-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="qtXOKEnL0lzx3GWqz_FI-1" target="qtXOKEnL0lzx3GWqz_FI-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIEdMuFnP1uakqGXzUCL-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="qtXOKEnL0lzx3GWqz_FI-1" target="qtXOKEnL0lzx3GWqz_FI-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIEdMuFnP1uakqGXzUCL-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="qtXOKEnL0lzx3GWqz_FI-1" target="qtXOKEnL0lzx3GWqz_FI-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BIEdMuFnP1uakqGXzUCL-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="qtXOKEnL0lzx3GWqz_FI-1" target="qtXOKEnL0lzx3GWqz_FI-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="310" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
